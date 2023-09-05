@@ -8,7 +8,8 @@
 <h2 >🔭 A bit about me </h2>
 <p>  I'm a <b>Northcoders</b> bootcamp graduate with a love for solving problems and making a difference! Currently working with <b>Next JS/Framer</b> & experimenting with <b>LLM AI</b> - stay tuned for some fun projects!:)</p>
 
-<h2>📄 Favourite book</h2> The song of Achilles - Madeline Miller
+<h2>📄 Favourite book</h2> 
+<p>The song of Achilles - Madeline Miller</p>
 
 <h2>⚡ Passions</h2> 
 Huge NBA fan, coffee connoisseur and lover of all pets!:D
