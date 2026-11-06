@@ -15,7 +15,7 @@ Interested in applied AI, cloud systems, and building practical software with re
 
 ## About me
 
-- Software Engineering Apprentice at Transport for London
+- Software Engineer at Transport for London
 - Experience building full-stack applications across bootcamp and personal projects
 - Strong interest in applied AI, end-to-end product development, and modern software engineering
 
